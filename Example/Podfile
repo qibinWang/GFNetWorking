@@ -1,0 +1,11 @@
+#use_frameworks!
+
+target 'GFNetWorking_Example' do
+  pod 'GFNetWorking', :path => '../'
+
+  target 'GFNetWorking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

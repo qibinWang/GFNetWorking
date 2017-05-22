@@ -1,0 +1,16 @@
+PODS:
+  - GFNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - GFNetWorking (from `../`)
+
+EXTERNAL SOURCES:
+  GFNetWorking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GFNetWorking: a036fbc764c560209288a76718134cabe3a568f9
+
+PODFILE CHECKSUM: 26be36c96036b95dfe85186a266fb1a669c5b151
+
+COCOAPODS: 1.2.0

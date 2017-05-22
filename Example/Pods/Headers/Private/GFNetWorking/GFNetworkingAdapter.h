@@ -1,0 +1,1 @@
+../../../../../GFNetWorking/Classes/GFNetworking/GFNetworkingAdapter.h
